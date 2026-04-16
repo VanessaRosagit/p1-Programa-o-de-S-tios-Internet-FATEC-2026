@@ -1,0 +1,27 @@
+body { font-family: sans-serif; background-color: #f4f4f4; margin: 0; }
+header { background-color: #333; color: white; padding: 20px; text-align: center; }
+.busca-container { margin-top: 10px; }
+input { padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
+button { padding: 8px 15px; cursor: pointer; background-color: #28a745; color: white; border: none; border-radius: 4px; }
+
+.grade-projetos { 
+    display: grid; 
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
+    gap: 20px; 
+    padding: 20px; 
+}
+
+
+
+.card-repositorio {
+    background: white;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.titulo { color: #007bff; margin: 0; }
+.descricao { font-size: 14px; color: #555; }
+.link-repo { margin-top: 10px; text-decoration: none; color: #28a745; font-weight: bold; }
