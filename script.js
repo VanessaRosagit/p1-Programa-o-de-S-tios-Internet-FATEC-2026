@@ -61,8 +61,8 @@ async function carregarRepositorios() {
         galeria.replaceChildren()
 
         if (data.items && data.items.length > 0) {
-            // Pega os primeiros 15 resultados e cria os cards
-            data.items.slice(0,15).forEach(criarCard)
+            
+            data.items.slice(0,3).forEach(criarCard)
         } else {
             alert("Nenhum repositório encontrado para este termo!")
         }

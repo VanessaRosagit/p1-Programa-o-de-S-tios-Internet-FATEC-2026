@@ -1,27 +1,119 @@
-body { font-family: sans-serif; background-color: #f4f4f4; margin: 0; }
-header { background-color: #333; color: white; padding: 20px; text-align: center; }
-.busca-container { margin-top: 10px; }
-input { padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
-button { padding: 8px 15px; cursor: pointer; background-color: #28a745; color: white; border: none; border-radius: 4px; }
+/* 1. Configurações Gerais (Pai de todos) */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
 
-.grade-projetos { 
-    display: grid; 
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); 
-    gap: 20px; 
-    padding: 20px; 
+/* 2. Cabeçalho e Busca */
+header {
+    background: linear-gradient(135deg, #24292e 0%, #1a1e22 100%);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+    box-shadow: 0 4px 12px rgba(38, 96, 136, 0.15);
+}
+
+.header-content h1 {
+    font-size: 2.5rem;
+    margin: 0;
+    letter-spacing: -1px;
+}
+
+.header-content p {
+    color: #adb5bd;
+    margin-bottom: 30px;
+    font-size: 1.1rem;
+}
+
+.busca-container {
+    display: flex;
+    justify-content: center;
+    max-width: 600px;
+    margin: 0 auto;
+    background: white;
+    padding: 5px;
+    border-radius: 50px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+input {
+    flex: 1;
+    border: none;
+    padding: 15px 25px;
+    font-size: 1rem;
+    border-radius: 50px 0 0 50px;
+    outline: none;
+    color: #333;
+}
+
+button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    padding: 0 30px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+button:hover {
+    background-color: #218838;
+    transform: scale(1.05);
 }
 
 
-
+.grade-projetos { 
+    display: flex;           
+    justify-content: center;  
+    flex-wrap: wrap;          
+    gap: 30px;                
+    padding: 40px 20px;       
+    max-width: 1200px;        
+    margin: 0 auto;           
+    position: relative;
+    z-index: 10;
+}
+/* 4. Card Individual */
 .card-repositorio {
     background: white;
     border: 1px solid #ddd;
-    padding: 15px;
-    border-radius: 8px;
+    padding: 20px;            
+    border-radius: 12px;      
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    width: 300px;             
+    min-height: 200px;        
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s; 
 }
-.titulo { color: #007bff; margin: 0; }
-.descricao { font-size: 14px; color: #555; }
-.link-repo { margin-top: 10px; text-decoration: none; color: #28a745; font-weight: bold; }
+
+.card-repositorio:hover {
+    transform: translateY(-5px); 
+}
+
+.titulo { 
+    color: #007bff; 
+    margin: 0 0 10px 0; 
+    font-size: 1.2rem;
+}
+
+.descricao { 
+    font-size: 14px; 
+    color: #555; 
+    line-height: 1.4;
+}
+
+.link-repo { 
+    margin-top: 15px; 
+    text-decoration: none; 
+    color: #28a745; 
+    font-weight: bold; 
+    display: inline-block;
+}
