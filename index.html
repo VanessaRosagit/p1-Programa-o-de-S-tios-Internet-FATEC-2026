@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consumindo API- Busca GitHub</title>
+    <title>Consumindo API - Busca GitHub</title>
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"defer></script>
+    <script src="script.js" defer></script>
 </head>
 <body>
     <header>
-        <h1>Explorador de Repositórios do GitHub</h1>
-        <div class="busca-container">
-            <input type="text" id="termoBusca" placeholder="Digite uma tecnologia...">
-            <button id="pesquisar">Pesquisar</button>
+        <div class="header-content">
+            <h1>Explorador de Repositórios do GitHub</h1>
+            <p>Encontre projetos incríveis digitando uma tecnologia abaixo</p>
+            
+            <div class="busca-container">
+                <input type="text" id="termoBusca" placeholder="Ex: JavaScript, React, Python...">
+                <button id="pesquisar">
+                    <span>Pesquisar</span>
+                </button>
+            </div>
         </div>
     </header>
 
@@ -20,7 +26,5 @@
         <div id="galeria" class="grade-projetos">
             </div>
     </main>
-
-    
 </body>
 </html>
