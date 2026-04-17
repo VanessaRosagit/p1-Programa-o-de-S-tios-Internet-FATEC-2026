@@ -33,7 +33,7 @@ Criar uma aplicação web utilizando JavaScript puro (Vanilla JS) para extrair d
 * JavaScript (Vanilla JS)
 
 ### 🔗 Acesse o Projeto
-* 💻 **GitHub:** https://github.com/VanessaRosagit](https://github.com/VanessaRosagit
+* 💻 **GitHub:**https://github.com/VanessaRosagit/p1-Programa-o-de-S-tios-Internet-FATEC-2026.git
 * 🌐 **GitHub Pages:** https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/](https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/
 
 ### 📚 Sobre o Projeto
