@@ -33,8 +33,8 @@ Criar uma aplicação web utilizando JavaScript puro (Vanilla JS) para extrair d
 * JavaScript (Vanilla JS)
 
 ### 🔗 Acesse o Projeto
-* 💻 **GitHub:** [https://github.com/VanessaRosagit](https://github.com/VanessaRosagit)
-* 🌐 **GitHub Pages:** [https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/](https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/)
+* 💻 **GitHub:** https://github.com/VanessaRosagit](https://github.com/VanessaRosagit
+* 🌐 **GitHub Pages:** https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/](https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/
 
 ### 📚 Sobre o Projeto
 A aplicação permite buscar personagens em uma API pública e exibir suas informações de forma dinâmica, reforçando conceitos fundamentais de desenvolvimento front-end como:
@@ -46,7 +46,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 ### 📢 LinkedIn
 Confira a publicação sobre este projeto:
 
-👉 [[https://www.linkedin.com/posts/vanessa-rosa-706862186_sistemasparainternet-fatec-webdev-ugcPost-7451038331703975936-nAsG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvot3YB12RVdvoBbVakvUs_R-kif0Ykjiw]]
+👉 https://www.linkedin.com/posts/vanessa-rosa-706862186_sistemasparainternet-fatec-webdev-ugcPost-7451038331703975936-nAsG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvot3YB12RVdvoBbVakvUs_R-kif0Ykjiw
 
 ### 👨‍🏫 Disciplina
 Programação de Sítios
