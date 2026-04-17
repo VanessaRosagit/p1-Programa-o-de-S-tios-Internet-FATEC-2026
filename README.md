@@ -46,7 +46,7 @@ A aplicação permite buscar personagens em uma API pública e exibir suas infor
 ### 📢 LinkedIn
 Confira a publicação sobre este projeto:
 
-👉 [[COLE AQUI O LINK DO POST]]
+👉 [[https://www.linkedin.com/posts/vanessa-rosa-706862186_sistemasparainternet-fatec-webdev-ugcPost-7451038331703975936-nAsG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACvot3YB12RVdvoBbVakvUs_R-kif0Ykjiw]]
 
 ### 👨‍🏫 Disciplina
 Programação de Sítios
