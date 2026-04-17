@@ -13,6 +13,19 @@ Criar uma aplicação web utilizando JavaScript puro (Vanilla JS) para extrair d
 * Manipulação do DOM
 * Tratamento de erros
 * Interface organizada e responsiva
+  
+  ### Critérios
+* Foi criado o campo de busca? (0,5) ok 
+* Os cards são criados dinamicamente? (1,5) ok
+* Os cards são criados dependendo da busca? (1,5) ok
+* Foi utilizado métodos para criar os novos elementos HTML? (1,5) ok
+* O consumo de API foi feito usando o fetch()? (1,5) ok
+* Incluiu tratamento de erro no campo de busca? (0,5) ok
+* Está responsivo? (1,0) ok
+* Foi criado o README com informações do projeto? (1,0) ok
+* Foi habilitado o github Pages? (0,5) ok
+* Foi publicado no linkedIn? (0,5) ok
+
 
 ### 🛠️ Tecnologias Utilizadas
 * HTML
