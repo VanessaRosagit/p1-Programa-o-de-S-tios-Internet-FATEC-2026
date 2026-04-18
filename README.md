@@ -34,7 +34,7 @@ Criar uma aplicação web utilizando JavaScript puro (Vanilla JS) para extrair d
 
 ### 🔗 Acesse o Projeto
 * 💻 **GitHub:**https://github.com/VanessaRosagit/p1-Programa-o-de-S-tios-Internet-FATEC-2026.git
-* 🌐 **GitHub Pages:** https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/](https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/
+* 🌐 **GitHub Pages:** https://vanessarosagit.github.io/p1-Programa-o-de-S-tios-Internet-FATEC-2026/
 
 ### 📚 Sobre o Projeto
 A aplicação permite buscar personagens em uma API pública e exibir suas informações de forma dinâmica, reforçando conceitos fundamentais de desenvolvimento front-end como:
